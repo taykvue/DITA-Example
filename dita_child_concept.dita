@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="dita_child_concept" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Data </title>
+    <shortdesc>Now we have created a child of the first topic.</shortdesc>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>

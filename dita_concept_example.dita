@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="dita_concept_example" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>DITA_Concept_Example</title>
+    <shortdesc>This is a description of a DITA concept. This is typically where you put information
+        about new info that you are introducing to the user.</shortdesc>
+    <conbody>
+        <p>This is a paragraph.<ul id="ul_wfh_wbt_vnb">
+                <li>This is a unordered list</li>
+                <li>This is another item in unordered list<p>This paragraph is nested below the
+                        unordered list.</p></li>
+            </ul></p>
+        <p>This is a new paragraph.</p>
+    </conbody>
+</concept>

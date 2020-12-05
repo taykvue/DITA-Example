@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Pongt\Desktop\DITA Example\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/Pongt/Desktop/DITA%20Example/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_bjj_1ht_vnb" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="task:1;3:29" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="title:1;4:12">DITA_Task_Example</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="shortdesc:1;5:16">This is an example of a DITA task topic</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="context:1;7:18">This outlines the steps in an example task<p class="- topic/p " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="p:1;7:63">You will need to follow these steps to
+                create a task</p></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="cmd:1;11:22">In Oxygen XM, select <filepath class="+ topic/ph sw-d/filepath " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="filepath:1;11:53">File &gt; New</filepath></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="step:2;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="cmd:2;14:22">Select the task topic from the Framwork Template folder.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="step:3;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="cmd:3;17:22">Name your task topic</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="step:4;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="cmd:4;20:22">Follow the file path to the folder where you will save this task topic</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="step:5;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="cmd:5;23:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_task_example.dita" xtrc="b:1;23:32">Save</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

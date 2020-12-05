@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Pongt\Desktop\DITA Example\temp\pdf-css-html5\oxygen_dita_temp?><?workdir-uri file:/C:/Users/Pongt/Desktop/DITA%20Example/temp/pdf-css-html5/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="dita_concept_example" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd" class="- topic/topic concept/concept " DITAArchVersion="1.3" domains="(topic abbrev-d) (topic concept) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d xml-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic svg-d) (topic sw-d) (topic ui-d) (topic ut-d) a(props deliveryTarget)" xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_concept_example.dita" xtrc="concept:1;3:77" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_concept_example.dita" xtrc="title:1;4:12">DITA_Concept_Example</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_concept_example.dita" xtrc="shortdesc:1;5:16">This is a description of a DITA concept. This is typically where you put information
+        about new info that you are introducing to the user.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_concept_example.dita" xtrc="conbody:1;7:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_concept_example.dita" xtrc="p:1;8:12">This is a paragraph.<ul id="ul_wfh_wbt_vnb" class="- topic/ul " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_concept_example.dita" xtrc="ul:1;8:56">
+                <li class="- topic/li " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_concept_example.dita" xtrc="li:1;9:21">This is a unordered list</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_concept_example.dita" xtrc="li:2;10:21">This is another item in unordered list<p class="- topic/p " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_concept_example.dita" xtrc="p:2;10:62">This paragraph is nested below the
+                        unordered list.</p></li>
+            </ul></p>
+        <p class="- topic/p " xtrf="file:/C:/Users/Pongt/Desktop/DITA%20Example/dita_concept_example.dita" xtrc="p:3;13:12">This is a new paragraph.</p>
+    </conbody>
+</concept>

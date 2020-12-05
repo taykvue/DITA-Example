@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bjj_1ht_vnb">
+    <title>DITA_Task_Example</title>
+    <shortdesc>This is an example of a DITA task topic</shortdesc>
+    <taskbody>
+        <context>This outlines the steps in an example task<p>You will need to follow these steps to
+                create a task</p></context>
+        <steps>
+            <step>
+                <cmd>In Oxygen XM, select <filepath>File > New</filepath></cmd>
+            </step>
+            <step>
+                <cmd>Select the task topic from the Framwork Template folder.</cmd>
+            </step>
+            <step>
+                <cmd>Name your task topic</cmd>
+            </step>
+            <step>
+                <cmd>Follow the file path to the folder where you will save this task topic</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Save</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

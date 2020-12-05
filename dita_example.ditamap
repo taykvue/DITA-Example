@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA Learning BookMap//EN" "learningbookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>DITA_Example</mainbooktitle>
+    </booktitle>
+    <chapter href="dita_concept_example.dita">
+        <topicref href="dita_child_concept.dita"/>
+    </chapter>
+    <chapter href="dita_task_example_before.dita"/>
+    <chapter href="dita_task_example.dita"/>
+    <chapter href="dita_submap_example.ditamap" format="ditamap"/>
+</bookmap>
